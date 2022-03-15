@@ -3,4 +3,4 @@ This project represent a first approach for those learning the Front-end univers
 Besides that, it was made for a **fictional company** called **UNES**. <br>
 
 ## Project image
-<img src="images/unesPage.png" alt="Unes Page image" width="400">
+<img src="images/unesPage.PNG" alt="Unes Page image" width="400">
